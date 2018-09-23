@@ -1,0 +1,4 @@
+django_webapp/__pycache__/*
+media
+music/__pycache__
+music/migrations
